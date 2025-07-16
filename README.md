@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis using Power BI
 
-![](https://github.com/mahibore/Netflix-Movie-and-TV-Shows-SQL-Project/blob/main/Netflix%20Logo.jpg)
+![](https://github.com/mahibore/Pizza-Sale-Analysis-PowerBI-Project/blob/main/4.jpg)
 
 This project presents a comprehensive analysis of pizza sales data using **Power BI Desktop**. The interactive report showcases sales performance across different time frames, categories, and pizza sizes, helping uncover key business insights to drive decision-making.
 
