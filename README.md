@@ -68,9 +68,9 @@ This project presents a comprehensive analysis of pizza sales data using **Power
 
 ## 🖥️ Screenshots
 
-Include screenshots of your Power BI dashboard for GitHub (optional).
+![](https://github.com/mahibore/Pizza-Sale-Analysis-PowerBI-Project/blob/main/4.jpg)
+![](https://github.com/mahibore/Pizza-Sale-Analysis-PowerBI-Project/blob/main/4.jpg)
 
----
 
 ## 🔗 Live Report or Demo (Optional)
 
